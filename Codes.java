@@ -10,6 +10,13 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
  */
 public class GameLauncher {
 
+	switch (switch (switch) {
+		enums of java kind
+		hoqw is it to write the code
+		kindly help please
+
+	}
+
 	/**
 	 * Private constructor to hide the implicit constructor
 	 */
