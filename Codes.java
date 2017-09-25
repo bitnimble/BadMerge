@@ -32,6 +32,7 @@ public class GameLauncher {
 		config.width = 1280;
 		config.height = 720;
 salamanders
+quokka
 		config.title = "DECO2800 2017: Iguana Chase";
 		app = new LwjglApplication(new IguanaChase(), config);
 	}
