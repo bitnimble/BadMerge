@@ -15,6 +15,8 @@ public class GameLauncher {
 		String lol2 = "haha haha";
 	}
 
+how play game
+
 	/**
 	 * Private constructor to hide the implicit constructor
 	 */
