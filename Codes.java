@@ -9,6 +9,10 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
  * @Author Tim Hadwen
  */
 public class GameLauncher {
+	
+	public static void whereDidTheCodesGo() {
+		String lol = "haha";
+	}
 
 	/**
 	 * Private constructor to hide the implicit constructor
