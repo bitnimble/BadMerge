@@ -12,6 +12,7 @@ public class GameLauncher {
 	
 	public static void whereDidTheCodesGo() {
 		String lol = "haha";
+		String lol2 = "haha haha";
 	}
 
 	/**
