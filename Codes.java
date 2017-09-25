@@ -30,6 +30,7 @@ public class GameLauncher {
 		LwjglApplication app;
 		config.width = 1280;
 		config.height = 720;
+salamanders
 		config.title = "DECO2800 2017: Iguana Chase";
 		app = new LwjglApplication(new IguanaChase(), config);
 	}
