@@ -6,7 +6,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 /**
  * DesktopLauncher
  * Launches the MOOS game engine in LibGDX
- * @Author Tim Hadwen
+ * @Author Timmy
  */
 public class GameLauncher {
 	
@@ -14,8 +14,6 @@ public class GameLauncher {
 		String lol = "haha";
 		String lol2 = "haha haha";
 	}
-
-how play game
 
 	/**
 	 * Private constructor to hide the implicit constructor
@@ -31,15 +29,9 @@ how play game
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		LwjglApplication app;
-		config.width = 1280;
-		config.height = 720;
-salamanders
-quokka
+		config.width = 1920;
+		config.height = 1080;
 		config.title = "DECO2800 2017: Iguana Chase";
 		app = new LwjglApplication(new IguanaChase(), config);
 	}
 }
-
-
-hachiroku
-hello my love
